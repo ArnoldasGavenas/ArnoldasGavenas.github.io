@@ -9,5 +9,22 @@
         <lastBuildDate>Fri, 06 Dec 2024 10:53:12 +0200</lastBuildDate>
         <atom:link href="ArnoldasGavenas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
+        <item>
+            <title>Informacija</title>
+            <link>ArnoldasGavenas.github.io/posts/info/</link>
+            <pubDate>Fri, 06 Dec 2024 10:53:12 +0200</pubDate>
+            
+            <guid>ArnoldasGavenas.github.io/posts/info/</guid>
+            <description>&lt;p&gt;[languages.lt]
+Čia yra visa informacija kokia gali būti
+[languages.en]
+It is what it is&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>[languages.lt]
+Čia yra visa informacija kokia gali būti
+[languages.en]
+It is what it is</p>
+]]></content>
+        </item>
+        
     </channel>
 </rss>

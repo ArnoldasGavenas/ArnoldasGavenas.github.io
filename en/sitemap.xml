@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>ArnoldasGavenas.github.io/contacts/</loc>
+    <lastmod>2024-12-06T11:51:13+02:00</lastmod>
+  </url><url>
     <loc>ArnoldasGavenas.github.io/</loc>
-    <lastmod>2024-12-06T10:53:12+02:00</lastmod>
+    <lastmod>2024-12-06T11:51:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="lt"
@@ -15,8 +18,39 @@
                 href="ArnoldasGavenas.github.io/"
                 />
   </url><url>
+    <loc>ArnoldasGavenas.github.io/lt/contacts/</loc>
+    <lastmod>2024-12-06T11:51:05+02:00</lastmod>
+  </url><url>
+    <loc>ArnoldasGavenas.github.io/lt/</loc>
+    <lastmod>2024-12-06T11:51:05+02:00</lastmod>
+  </url><url>
+    <loc>ArnoldasGavenas.github.io/lt/info/</loc>
+    <lastmod>2024-12-06T11:22:06+02:00</lastmod>
+  </url><url>
+    <loc>ArnoldasGavenas.github.io/posts/info/</loc>
+    <lastmod>2024-12-06T10:53:12+02:00</lastmod>
+  </url><url>
     <loc>ArnoldasGavenas.github.io/posts/</loc>
     <lastmod>2024-12-06T10:53:12+02:00</lastmod>
+  </url><url>
+    <loc>ArnoldasGavenas.github.io/tags/</loc>
+    <lastmod>2024-12-06T10:53:12+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="lt"
+                href="ArnoldasGavenas.github.io/lt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="ArnoldasGavenas.github.io/tags/"
+                />
+  </url><url>
+    <loc>ArnoldasGavenas.github.io/tags/untagged/</loc>
+    <lastmod>2024-12-06T10:53:12+02:00</lastmod>
+  </url><url>
+    <loc>ArnoldasGavenas.github.io/info/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>ArnoldasGavenas.github.io/blog/</loc>
     <xhtml:link
@@ -40,18 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="ArnoldasGavenas.github.io/series/"
-                />
-  </url><url>
-    <loc>ArnoldasGavenas.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="lt"
-                href="ArnoldasGavenas.github.io/lt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="ArnoldasGavenas.github.io/tags/"
                 />
   </url>
 </urlset>

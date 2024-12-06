@@ -7,7 +7,42 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 11:51:13 +0200</lastBuildDate>
     <atom:link href="ArnoldasGavenas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacts</title>
+      <link>ArnoldasGavenas.github.io/contacts/</link>
+      <pubDate>Fri, 06 Dec 2024 11:51:13 +0200</pubDate>
+      <guid>ArnoldasGavenas.github.io/contacts/</guid>
+      <description>&lt;p&gt;Email Me: &lt;a href=&#34;mailto:arnoldas.gavenas@stud.vilniustech.lt&#34;&gt;arnoldas.gavenas@stud.vilniustech.lt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacts</title>
+      <link>ArnoldasGavenas.github.io/lt/contacts/</link>
+      <pubDate>Fri, 06 Dec 2024 11:51:05 +0200</pubDate>
+      <guid>ArnoldasGavenas.github.io/lt/contacts/</guid>
+      <description>&lt;p&gt;Parašyk Man: &lt;a href=&#34;mailto:arnoldas.gavenas@stud.vilniustech.lt&#34;&gt;arnoldas.gavenas@stud.vilniustech.lt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Info</title>
+      <link>ArnoldasGavenas.github.io/lt/info/</link>
+      <pubDate>Fri, 06 Dec 2024 11:22:06 +0200</pubDate>
+      <guid>ArnoldasGavenas.github.io/lt/info/</guid>
+      <description>&lt;p&gt;LT:&#xA;Čia yra visa informacija kokia gali būti&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informacija</title>
+      <link>ArnoldasGavenas.github.io/posts/info/</link>
+      <pubDate>Fri, 06 Dec 2024 10:53:12 +0200</pubDate>
+      <guid>ArnoldasGavenas.github.io/posts/info/</guid>
+      <description>&lt;p&gt;[languages.lt]&#xA;Čia yra visa informacija kokia gali būti&#xA;[languages.en]&#xA;It is what it is&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informacija</title>
+      <link>ArnoldasGavenas.github.io/info/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>ArnoldasGavenas.github.io/info/</guid>
+      <description>&lt;p&gt;EN:&#xA;It is what it is&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
