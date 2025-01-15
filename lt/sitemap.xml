@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>ArnoldasGavenas.github.io/lt/</loc>
+    <loc>https://ArnoldasGavenas.github.iolt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,7 +14,7 @@
                 href="https://ArnoldasGavenas.github.io/lt/"
                 />
   </url><url>
-    <loc>ArnoldasGavenas.github.io/lt/blog/</loc>
+    <loc>https://ArnoldasGavenas.github.iolt/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,7 +26,7 @@
                 href="https://ArnoldasGavenas.github.io/lt/blog/"
                 />
   </url><url>
-    <loc>ArnoldasGavenas.github.io/lt/series/</loc>
+    <loc>https://ArnoldasGavenas.github.iolt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,7 +38,7 @@
                 href="https://ArnoldasGavenas.github.io/lt/series/"
                 />
   </url><url>
-    <loc>ArnoldasGavenas.github.io/lt/tags/</loc>
+    <loc>https://ArnoldasGavenas.github.iolt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
